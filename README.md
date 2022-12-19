@@ -19,5 +19,5 @@ The notes contain the modules outlined below:<br>
 |3-2|Individual Feature Importance|<li>Chapley Values</li><li>Combining Importances</li><li>Shapley Values for all Patients</li>
 |3-3|Interpret DL Models|<li>Interpreting CNN Models</li><li>Introduction to GradCAM (Part 1)</li><li>Localization Maps</li><li>Heat Maps</li><li>GradCAM: Continuation (Part 2)</li>
 |Q|ML Interpretation|!!|
-|A|ML Interpretation|$|
+|A|ML Interpretation|$！|
 
